@@ -3,7 +3,7 @@
 <LanguageData>
   
   <DesignatorCancel>Annuler</DesignatorCancel>
-  <DesignatorCancelDesc>Annule l'ordre désigné (Construire, miner, transporter, récolter, etc.).</DesignatorCancelDesc>
+  <DesignatorCancelDesc>Annule l'ordre donné (Construire, miner, transporter, récolter, etc.).</DesignatorCancelDesc>
 
   <DesignatorCutPlants>Couper les plantes</DesignatorCutPlants>
   <DesignatorCutPlantsDesc>Marque des plantes afin qu'elles soient coupées. Les plantes coupées sont récoltées avant d'être détruites.</DesignatorCutPlantsDesc>
@@ -12,7 +12,7 @@
   <DesignatorDeconstructDesc>Détruit une construction et récupère une partie des ressources.</DesignatorDeconstructDesc>
 
   <DesignatorUninstall>Désinstaller</DesignatorUninstall>
-  <DesignatorUninstallDesc>Désinstaller ceci pour le bouger, le vendre ou l'installer autre part.</DesignatorUninstallDesc>
+  <DesignatorUninstallDesc>Désinstaller l'objet pour le déplacer, le vendre ou l'installer autre part.</DesignatorUninstallDesc>
   
   <DesignatorHarvest>Récolter</DesignatorHarvest>
   <DesignatorHarvestDesc>Marque des plantes afin qu'elles soient récoltées.</DesignatorHarvestDesc>
@@ -28,16 +28,16 @@
   <DesignatorHuntDesc>Marque des animaux afin qu'ils soient chassés par vos chasseurs.</DesignatorHuntDesc>
 
   <DesignatorMine>Miner</DesignatorMine>
-  <DesignatorMineDesc>Désigne une zone rocheuse afin d'y creuser.</DesignatorMineDesc>
+  <DesignatorMineDesc>Désigne une zone rocheuse à miner ou à creuser.</DesignatorMineDesc>
 
   <DesignatorSmoothFloor>Aplanir le sol</DesignatorSmoothFloor>
-  <DesignatorSmoothFloorDesc>Désigne un sol de pierre brute afin qu'il soit aplani.</DesignatorSmoothFloorDesc>
+  <DesignatorSmoothFloorDesc>Désigne un sol de pierre brute afin qu'elle soit aplanie.</DesignatorSmoothFloorDesc>
 
   <DesignatorPlan>Planifier</DesignatorPlan>
-  <DesignatorPlanDesc>Désigne une zone de plan. Cela ne sert à rien hormis à vous aider à planifier vos constructions futures.</DesignatorPlanDesc>
+  <DesignatorPlanDesc>Trace une zone de plan. Cela ne sert à rien hormis à vous aider à planifier vos constructions futures.</DesignatorPlanDesc>
 
-  <DesignatorPlanRemove>Retirer les plans</DesignatorPlanRemove>
-  <DesignatorPlanRemoveDesc>Retire des zones planifiées.</DesignatorPlanRemoveDesc>
+  <DesignatorPlanRemove>Effacer les plans</DesignatorPlanRemove>
+  <DesignatorPlanRemoveDesc>Efface des zones planifiées.</DesignatorPlanRemoveDesc>
 
   <DesignatorAreaHomeExpand>Ajouter une Zone de Base</DesignatorAreaHomeExpand>
   <DesignatorAreaHomeExpandDesc>Les colons répareront, feront le ménage et éteindront les incendies dans la Zone de Base.</DesignatorAreaHomeExpandDesc>
